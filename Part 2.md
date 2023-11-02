@@ -20,6 +20,8 @@ Botium Toysâ€™ IT manager asked you to conduct an internal audit of the companyâ
 
 Your task is to clearly and concisely communicate your findings and recommendations to the IT manager and other stakeholders, so they can implement the necessary controls and create appropriate documentation, processes, and procedures to ensure business continuity, the safety of critical assets, and compliance.
 
+<!--
+
 ## Step-By-Step Instructions
 
 Follow the instructions to complete each step of the activity. Then, answer the 5 questions at the end of the activity before going to the next course item to compare your work to a completed exemplar.
@@ -92,3 +94,5 @@ To review the exemplar for this course item, click the following link and select
 
 
 Link to exemplar: [Stakeholder memorandum exemplar](https://docs.google.com/document/d/14Fov305DTfuMAbldTbQdrN7bNwfBrqrE6J6DuSgaQbE/template/preview?usp=sharing)
+
+-->
