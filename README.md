@@ -36,9 +36,11 @@ To use the supporting materials for this course item, click the links.
 
 Links to supporting materials: 
 
-[Botium Toys: Audit scope and goals](https://docs.google.com/document/d/1bA-J96jzDVFi9XjNOKd4w2bCR7X7ZTs3_szPElOkyFM/template/preview)
+Coming Soon!
 
-[Botium Toys: Risk assessment](https://docs.google.com/document/d/1rdjLtrTQD7c8K3cUeKnrhyq3DzXpKNL9vdHI1T9Vu80/template/preview?resourcekey=0--N8L-3p4Hel22vaxVLjIOA)
+<!-- [Botium Toys: Audit scope and goals](https://docs.google.com/document/d/1bA-J96jzDVFi9XjNOKd4w2bCR7X7ZTs3_szPElOkyFM/template/preview) -->
+
+<!-- [Botium Toys: Risk assessment](https://docs.google.com/document/d/1rdjLtrTQD7c8K3cUeKnrhyq3DzXpKNL9vdHI1T9Vu80/template/preview?resourcekey=0--N8L-3p4Hel22vaxVLjIOA) -->
 
 ### Step 2: Analyze the audit scope, goals, and risk assessment
 
