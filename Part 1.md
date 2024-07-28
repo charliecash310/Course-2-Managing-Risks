@@ -4,11 +4,9 @@
 
 ## Activity Overview
 
-In part one of this activity, you will conduct an internal security audit, which you can include in your cybersecurity portfolio. To review the importance of building a professional portfolio and options for creating your portfolio, read [Create a cybersecurity portfolio](https://www.coursera.org/learn/manage-security-risks/resources/pyALD).
+In part one of this activity, we conduct an internal security audit in order to review the importance of performing an audit to help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
 
-As a reminder, audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
-
-Be sure to complete this activity and answer the questions that follow before moving on. The next course item will provide you with completed exemplars to compare to your own work. You will not be able to access the exemplars until you have completed this activity and answered the questions.
+To complete this activity and answer the questions that follow before moving on. 
 
 ### Scenario
 
