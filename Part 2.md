@@ -4,11 +4,9 @@
 
 ## Activity Overview
 
-In part two of this activity, you will communicate the security audit results and recommendations to stakeholders. You can include the completed stakeholder memorandum in your cybersecurity portfolio to demonstrate your ability to communicate in a way that supports stakeholder understanding of complex concepts. To review the importance of building a professional portfolio and options for creating your portfolio, read [Create a cybersecurity portfolio](https://www.coursera.org/learn/manage-security-risks/resources/pyALD).
+In part two of this activity, we communicate the security audit results and recommendations to fictional stakeholders. A completed stakeholder memorandum is demonstrated to communicate in a way that supports stakeholder understanding of complex concepts.
 
-To complete this activity, you will need the **controls assessment** and **compliance checklist** that you worked on in [the previous activity about conducting a security audit](https://www.coursera.org/learn/manage-security-risks/exam/TMBj8/portfolio-activity-conduct-a-security-audit-part-1). If you have not completed that activity, you can revisit it now.
-
-Be sure to complete this activity and answer the questions that follow before moving on. The next course item will provide you with a completed exemplar to compare to your own work. You will not be able to access the exemplar until you have completed this activity and answered the questions.
+To complete this activity, we use the **controls assessment** and **compliance checklist** provided from Part 1 of the Security Audit
 
 ## Scenario
 
